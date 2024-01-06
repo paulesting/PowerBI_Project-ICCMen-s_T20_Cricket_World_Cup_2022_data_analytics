@@ -122,13 +122,13 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
 4.Webscraping
 
-5.Beautifual Soup
+5.Beautiful Soup
 
 6.Power Query Editor
 
 7.Power BI
 
-8.Anaconda Envirement
+8.Anaconda Environment
 
 ## References
 
