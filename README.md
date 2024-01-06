@@ -3,8 +3,8 @@
 
 ## Table of Contents :
 
-- [Problem Statement](https://github.com/yogeshkasar778/PowerBI-Project--ICCMen-s-T20-Cricket-World-Cup-2022-data-analysis/edit/main/README.md#problem-statement-)
-- [Datasource](https://github.com/yogeshkasar778/PowerBI-Project--ICCMen-s-T20-Cricket-World-Cup-2022-data-analysis/edit/main/README.md#datasource-)
+- [Problem Statement](https://github.com/paulesting/PowerBI_Project-ICCMen-s_T20_Cricket_World_Cup_2022_data_analytics/edit/main/README.md#problem-statement])
+- [Datasource]([https://github.com/paulesting/PowerBI_Project-ICCMen-s_T20_Cricket_World_Cup_2022_data_analyticsedit/main/README.md#datasource])
 - [Data Collection]()
 - [Data Transformation]()
 - [Data Modelling]()
